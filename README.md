@@ -38,4 +38,4 @@ This project is licensed under the MIT License.
 
 ## Feedback & Suggestions
 
-We value your input! If you have any feedback or suggestions on how to improve this script, please feel free to leave a comment. Your contributions are greatly appreciated and will help us enhance the script for everyone. https://github.com/topedreal/nmapscan/issues/1
+We value your input! If you have any feedback or suggestions on how to improve this script, please feel free to leave a comment. Your contributions are greatly appreciated and will help us enhance the script for everyone. [Issues](https://github.com/topedreal/nmapscan/issues/1)
